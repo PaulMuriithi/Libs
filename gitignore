@@ -1,0 +1,37 @@
+# generated files
+AdvancedMaterialDrawer/bin/
+AdvancedMaterialDrawer/gen/
+appcompat/bin/
+appcompat/gen/
+BottomSheet/bin/
+BottomSheet/gen/
+CardView21/bin/
+CardView21/gen/
+Datetimepicker/bin/
+Datetimepicker/gen/
+Fab/bin/
+Fab/gen/
+google_play_services/bin/
+google_play_services/gen/
+MaterialDesign/bin/
+MaterialDesign/gen/
+MaterialDialogs/bin/
+MaterialDialogs/gen/
+MaterialEdittext/bin/
+MaterialEdittext/gen/
+NineoldAndroids/bin/
+NineoldAndroids/gen/
+PagerSlidingTabStrip/bin/
+PagerSlidingTabStrip/gen/
+PersistentSearch/bin/
+PersistentSearch/gen/
+recyclerview/bin/
+recyclerview/gen/
+SugarOrm/bin/
+SugarOrm/gen/
+TextDrawable/bin/
+TextDrawable/gen/
+Timessquare/bin/
+Timessquare/gen/
+# Local configuration file (sdk path, etc)
+# project.properties
