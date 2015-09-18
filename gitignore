@@ -33,5 +33,9 @@ TextDrawable/bin/
 TextDrawable/gen/
 Timessquare/bin/
 Timessquare/gen/
+Facebook/bin/
+Facebook/gen/
+FacebookSDK/bin/
+FacebookSDK/gen/
 # Local configuration file (sdk path, etc)
 # project.properties
