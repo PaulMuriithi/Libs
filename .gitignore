@@ -37,5 +37,9 @@ Facebook/bin/
 Facebook/gen/
 FacebookSDK/bin/
 FacebookSDK/gen/
+aFileChooser/bin/
+aFileChooser/gen/
+KenBurnsView/bin/
+KenBurnsView/gen/
 # Local configuration file (sdk path, etc)
 # project.properties
